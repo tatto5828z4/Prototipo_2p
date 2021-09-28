@@ -4,3 +4,9 @@ C:\Users\jorgi\Desktop\Prototipo2p\CapaModelo\obj\Debug\CapaModelo.csprojAssembl
 C:\Users\jorgi\Desktop\Prototipo2p\CapaModelo\obj\Debug\CapaModelo.csproj.CoreCompileInputs.cache
 C:\Users\jorgi\Desktop\Prototipo2p\CapaModelo\obj\Debug\CapaModelo.dll
 C:\Users\jorgi\Desktop\Prototipo2p\CapaModelo\obj\Debug\CapaModelo.pdb
+C:\Users\jorgi\Desktop\Analisis2p\Prototipo2P\CapaModelo\obj\Debug\CapaModelo.csprojAssemblyReference.cache
+C:\Users\jorgi\Desktop\Analisis2p\Prototipo2P\CapaModelo\obj\Debug\CapaModelo.csproj.CoreCompileInputs.cache
+C:\Users\jorgi\Desktop\Analisis2p\Prototipo2P\CapaModelo\obj\Debug\CapaModelo.dll
+C:\Users\jorgi\Desktop\Analisis2p\Prototipo2P\CapaModelo\obj\Debug\CapaModelo.pdb
+C:\Users\jorgi\Desktop\Analisis2p\Prototipo2P\CapaModelo\bin\Debug\CapaModelo.dll
+C:\Users\jorgi\Desktop\Analisis2p\Prototipo2P\CapaModelo\bin\Debug\CapaModelo.pdb

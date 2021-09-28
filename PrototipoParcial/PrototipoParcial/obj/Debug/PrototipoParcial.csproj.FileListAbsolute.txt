@@ -22,3 +22,7 @@ C:\Users\jorgi\Desktop\Analisis2p\PrototipoParcial\PrototipoParcial\obj\Debug\Pr
 C:\Users\jorgi\Desktop\Analisis2p\PrototipoParcial\PrototipoParcial\obj\Debug\PrototipoParcial.csproj.CopyComplete
 C:\Users\jorgi\Desktop\Analisis2p\PrototipoParcial\PrototipoParcial\obj\Debug\PrototipoParcial.exe
 C:\Users\jorgi\Desktop\Analisis2p\PrototipoParcial\PrototipoParcial\obj\Debug\PrototipoParcial.pdb
+C:\Users\jorgi\Desktop\Analisis2p\PrototipoParcial\PrototipoParcial\bin\Debug\CapaControlador.dll
+C:\Users\jorgi\Desktop\Analisis2p\PrototipoParcial\PrototipoParcial\bin\Debug\CapaModelo.dll
+C:\Users\jorgi\Desktop\Analisis2p\PrototipoParcial\PrototipoParcial\bin\Debug\CapaControlador.pdb
+C:\Users\jorgi\Desktop\Analisis2p\PrototipoParcial\PrototipoParcial\bin\Debug\CapaModelo.pdb

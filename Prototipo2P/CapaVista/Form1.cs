@@ -37,5 +37,12 @@ namespace CapaVista
             
             formm.Show();
         }
+
+        private void productoToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            Producto formp = new Producto();
+            formp.MdiParent = this;
+            formp.Show();
+        }
     }
 }

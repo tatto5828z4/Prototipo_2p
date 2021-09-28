@@ -96,8 +96,9 @@
             // productoToolStripMenuItem
             // 
             this.productoToolStripMenuItem.Name = "productoToolStripMenuItem";
-            this.productoToolStripMenuItem.Size = new System.Drawing.Size(123, 22);
+            this.productoToolStripMenuItem.Size = new System.Drawing.Size(180, 22);
             this.productoToolStripMenuItem.Text = "Producto";
+            this.productoToolStripMenuItem.Click += new System.EventHandler(this.productoToolStripMenuItem_Click);
             // 
             // informesToolStripMenuItem
             // 
