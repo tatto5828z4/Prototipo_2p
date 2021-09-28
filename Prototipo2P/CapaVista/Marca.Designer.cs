@@ -33,12 +33,12 @@
             this.button2 = new System.Windows.Forms.Button();
             this.button1 = new System.Windows.Forms.Button();
             this.label4 = new System.Windows.Forms.Label();
-            this.txtEstatusLinea = new System.Windows.Forms.TextBox();
+            this.txtEstatusMarca = new System.Windows.Forms.TextBox();
             this.label3 = new System.Windows.Forms.Label();
             this.label2 = new System.Windows.Forms.Label();
-            this.txtNombreLinea = new System.Windows.Forms.TextBox();
+            this.txtNombreMarca = new System.Windows.Forms.TextBox();
             this.label1 = new System.Windows.Forms.Label();
-            this.txtCodLinea = new System.Windows.Forms.TextBox();
+            this.txtCodMarca = new System.Windows.Forms.TextBox();
             this.label5 = new System.Windows.Forms.Label();
             ((System.ComponentModel.ISupportInitialize)(this.dgvMarca)).BeginInit();
             this.SuspendLayout();
@@ -94,13 +94,13 @@
             this.label4.TabIndex = 17;
             this.label4.Text = "Mantenimiento Marca";
             // 
-            // txtEstatusLinea
+            // txtEstatusMarca
             // 
-            this.txtEstatusLinea.BackColor = System.Drawing.Color.PeachPuff;
-            this.txtEstatusLinea.Location = new System.Drawing.Point(33, 206);
-            this.txtEstatusLinea.Name = "txtEstatusLinea";
-            this.txtEstatusLinea.Size = new System.Drawing.Size(100, 20);
-            this.txtEstatusLinea.TabIndex = 16;
+            this.txtEstatusMarca.BackColor = System.Drawing.Color.PeachPuff;
+            this.txtEstatusMarca.Location = new System.Drawing.Point(33, 206);
+            this.txtEstatusMarca.Name = "txtEstatusMarca";
+            this.txtEstatusMarca.Size = new System.Drawing.Size(100, 20);
+            this.txtEstatusMarca.TabIndex = 16;
             // 
             // label3
             // 
@@ -122,13 +122,13 @@
             this.label2.TabIndex = 14;
             this.label2.Text = "Nombre Marca";
             // 
-            // txtNombreLinea
+            // txtNombreMarca
             // 
-            this.txtNombreLinea.BackColor = System.Drawing.Color.PeachPuff;
-            this.txtNombreLinea.Location = new System.Drawing.Point(33, 147);
-            this.txtNombreLinea.Name = "txtNombreLinea";
-            this.txtNombreLinea.Size = new System.Drawing.Size(100, 20);
-            this.txtNombreLinea.TabIndex = 13;
+            this.txtNombreMarca.BackColor = System.Drawing.Color.PeachPuff;
+            this.txtNombreMarca.Location = new System.Drawing.Point(33, 147);
+            this.txtNombreMarca.Name = "txtNombreMarca";
+            this.txtNombreMarca.Size = new System.Drawing.Size(100, 20);
+            this.txtNombreMarca.TabIndex = 13;
             // 
             // label1
             // 
@@ -140,13 +140,13 @@
             this.label1.TabIndex = 12;
             this.label1.Text = "Codigo Marca";
             // 
-            // txtCodLinea
+            // txtCodMarca
             // 
-            this.txtCodLinea.BackColor = System.Drawing.Color.PeachPuff;
-            this.txtCodLinea.Location = new System.Drawing.Point(33, 91);
-            this.txtCodLinea.Name = "txtCodLinea";
-            this.txtCodLinea.Size = new System.Drawing.Size(100, 20);
-            this.txtCodLinea.TabIndex = 11;
+            this.txtCodMarca.BackColor = System.Drawing.Color.PeachPuff;
+            this.txtCodMarca.Location = new System.Drawing.Point(33, 91);
+            this.txtCodMarca.Name = "txtCodMarca";
+            this.txtCodMarca.Size = new System.Drawing.Size(100, 20);
+            this.txtCodMarca.TabIndex = 11;
             // 
             // label5
             // 
@@ -171,12 +171,12 @@
             this.Controls.Add(this.button2);
             this.Controls.Add(this.button1);
             this.Controls.Add(this.label4);
-            this.Controls.Add(this.txtEstatusLinea);
+            this.Controls.Add(this.txtEstatusMarca);
             this.Controls.Add(this.label3);
             this.Controls.Add(this.label2);
-            this.Controls.Add(this.txtNombreLinea);
+            this.Controls.Add(this.txtNombreMarca);
             this.Controls.Add(this.label1);
-            this.Controls.Add(this.txtCodLinea);
+            this.Controls.Add(this.txtCodMarca);
             this.FormBorderStyle = System.Windows.Forms.FormBorderStyle.None;
             this.Name = "Marca";
             this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
@@ -194,12 +194,12 @@
         private System.Windows.Forms.Button button2;
         private System.Windows.Forms.Button button1;
         private System.Windows.Forms.Label label4;
-        private System.Windows.Forms.TextBox txtEstatusLinea;
+        private System.Windows.Forms.TextBox txtEstatusMarca;
         private System.Windows.Forms.Label label3;
         private System.Windows.Forms.Label label2;
-        private System.Windows.Forms.TextBox txtNombreLinea;
+        private System.Windows.Forms.TextBox txtNombreMarca;
         private System.Windows.Forms.Label label1;
-        private System.Windows.Forms.TextBox txtCodLinea;
+        private System.Windows.Forms.TextBox txtCodMarca;
         private System.Windows.Forms.Label label5;
     }
 }

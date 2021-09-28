@@ -10,3 +10,15 @@ C:\Users\jorgi\Desktop\PrototipoParcial\PrototipoParcial\obj\Debug\PrototipoParc
 C:\Users\jorgi\Desktop\PrototipoParcial\PrototipoParcial\bin\Debug\CapaVista.dll
 C:\Users\jorgi\Desktop\PrototipoParcial\PrototipoParcial\bin\Debug\CapaVista.pdb
 C:\Users\jorgi\Desktop\PrototipoParcial\PrototipoParcial\obj\Debug\PrototipoParcial.csproj.CopyComplete
+C:\Users\jorgi\Desktop\Analisis2p\PrototipoParcial\PrototipoParcial\bin\Debug\PrototipoParcial.exe.config
+C:\Users\jorgi\Desktop\Analisis2p\PrototipoParcial\PrototipoParcial\bin\Debug\PrototipoParcial.exe
+C:\Users\jorgi\Desktop\Analisis2p\PrototipoParcial\PrototipoParcial\bin\Debug\PrototipoParcial.pdb
+C:\Users\jorgi\Desktop\Analisis2p\PrototipoParcial\PrototipoParcial\bin\Debug\CapaVista.dll
+C:\Users\jorgi\Desktop\Analisis2p\PrototipoParcial\PrototipoParcial\bin\Debug\CapaVista.pdb
+C:\Users\jorgi\Desktop\Analisis2p\PrototipoParcial\PrototipoParcial\obj\Debug\PrototipoParcial.csprojAssemblyReference.cache
+C:\Users\jorgi\Desktop\Analisis2p\PrototipoParcial\PrototipoParcial\obj\Debug\PrototipoParcial.Properties.Resources.resources
+C:\Users\jorgi\Desktop\Analisis2p\PrototipoParcial\PrototipoParcial\obj\Debug\PrototipoParcial.csproj.GenerateResource.cache
+C:\Users\jorgi\Desktop\Analisis2p\PrototipoParcial\PrototipoParcial\obj\Debug\PrototipoParcial.csproj.CoreCompileInputs.cache
+C:\Users\jorgi\Desktop\Analisis2p\PrototipoParcial\PrototipoParcial\obj\Debug\PrototipoParcial.csproj.CopyComplete
+C:\Users\jorgi\Desktop\Analisis2p\PrototipoParcial\PrototipoParcial\obj\Debug\PrototipoParcial.exe
+C:\Users\jorgi\Desktop\Analisis2p\PrototipoParcial\PrototipoParcial\obj\Debug\PrototipoParcial.pdb
