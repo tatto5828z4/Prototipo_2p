@@ -6,3 +6,17 @@ C:\Users\jorgi\Desktop\Prototipo2p\CapaVista\obj\Debug\CapaVista.csproj.Generate
 C:\Users\jorgi\Desktop\Prototipo2p\CapaVista\obj\Debug\CapaVista.csproj.CoreCompileInputs.cache
 C:\Users\jorgi\Desktop\Prototipo2p\CapaVista\obj\Debug\CapaVista.dll
 C:\Users\jorgi\Desktop\Prototipo2p\CapaVista\obj\Debug\CapaVista.pdb
+C:\Users\jorgi\Desktop\Prototipo2p\CapaVista\bin\Debug\CapaControlador.dll
+C:\Users\jorgi\Desktop\Prototipo2p\CapaVista\bin\Debug\CapaControlador.pdb
+C:\Users\jorgi\Desktop\Prototipo2p\CapaVista\obj\Debug\CapaVista.csproj.CopyComplete
+C:\Users\jorgi\Desktop\Analisis2p\Prototipo2P\CapaVista\bin\Debug\CapaVista.dll
+C:\Users\jorgi\Desktop\Analisis2p\Prototipo2P\CapaVista\bin\Debug\CapaVista.pdb
+C:\Users\jorgi\Desktop\Analisis2p\Prototipo2P\CapaVista\bin\Debug\CapaControlador.dll
+C:\Users\jorgi\Desktop\Analisis2p\Prototipo2P\CapaVista\bin\Debug\CapaControlador.pdb
+C:\Users\jorgi\Desktop\Analisis2p\Prototipo2P\CapaVista\obj\Debug\CapaVista.csprojAssemblyReference.cache
+C:\Users\jorgi\Desktop\Analisis2p\Prototipo2P\CapaVista\obj\Debug\CapaVista.Form1.resources
+C:\Users\jorgi\Desktop\Analisis2p\Prototipo2P\CapaVista\obj\Debug\CapaVista.csproj.GenerateResource.cache
+C:\Users\jorgi\Desktop\Analisis2p\Prototipo2P\CapaVista\obj\Debug\CapaVista.csproj.CoreCompileInputs.cache
+C:\Users\jorgi\Desktop\Analisis2p\Prototipo2P\CapaVista\obj\Debug\CapaVista.csproj.CopyComplete
+C:\Users\jorgi\Desktop\Analisis2p\Prototipo2P\CapaVista\obj\Debug\CapaVista.dll
+C:\Users\jorgi\Desktop\Analisis2p\Prototipo2P\CapaVista\obj\Debug\CapaVista.pdb

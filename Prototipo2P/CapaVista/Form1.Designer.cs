@@ -31,13 +31,13 @@
             this.menuStrip1 = new System.Windows.Forms.MenuStrip();
             this.abrirToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.catalogosToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
+            this.mantenimientoLineaToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
+            this.mantenimientoProductoToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.procesosToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
+            this.productoToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.informesToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.herramientasToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.ayudaToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
-            this.mantenimientoLineaToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
-            this.mantenimientoProductoToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
-            this.productoToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.menuStrip1.SuspendLayout();
             this.SuspendLayout();
             // 
@@ -71,6 +71,18 @@
             this.catalogosToolStripMenuItem.Size = new System.Drawing.Size(72, 20);
             this.catalogosToolStripMenuItem.Text = "Catalogos";
             // 
+            // mantenimientoLineaToolStripMenuItem
+            // 
+            this.mantenimientoLineaToolStripMenuItem.Name = "mantenimientoLineaToolStripMenuItem";
+            this.mantenimientoLineaToolStripMenuItem.Size = new System.Drawing.Size(208, 22);
+            this.mantenimientoLineaToolStripMenuItem.Text = "Mantenimiento Linea";
+            // 
+            // mantenimientoProductoToolStripMenuItem
+            // 
+            this.mantenimientoProductoToolStripMenuItem.Name = "mantenimientoProductoToolStripMenuItem";
+            this.mantenimientoProductoToolStripMenuItem.Size = new System.Drawing.Size(208, 22);
+            this.mantenimientoProductoToolStripMenuItem.Text = "Mantenimiento Producto";
+            // 
             // procesosToolStripMenuItem
             // 
             this.procesosToolStripMenuItem.DropDownItems.AddRange(new System.Windows.Forms.ToolStripItem[] {
@@ -78,6 +90,12 @@
             this.procesosToolStripMenuItem.Name = "procesosToolStripMenuItem";
             this.procesosToolStripMenuItem.Size = new System.Drawing.Size(66, 20);
             this.procesosToolStripMenuItem.Text = "Procesos";
+            // 
+            // productoToolStripMenuItem
+            // 
+            this.productoToolStripMenuItem.Name = "productoToolStripMenuItem";
+            this.productoToolStripMenuItem.Size = new System.Drawing.Size(123, 22);
+            this.productoToolStripMenuItem.Text = "Producto";
             // 
             // informesToolStripMenuItem
             // 
@@ -97,33 +115,17 @@
             this.ayudaToolStripMenuItem.Size = new System.Drawing.Size(53, 20);
             this.ayudaToolStripMenuItem.Text = "Ayuda";
             // 
-            // mantenimientoLineaToolStripMenuItem
-            // 
-            this.mantenimientoLineaToolStripMenuItem.Name = "mantenimientoLineaToolStripMenuItem";
-            this.mantenimientoLineaToolStripMenuItem.Size = new System.Drawing.Size(208, 22);
-            this.mantenimientoLineaToolStripMenuItem.Text = "Mantenimiento Linea";
-            // 
-            // mantenimientoProductoToolStripMenuItem
-            // 
-            this.mantenimientoProductoToolStripMenuItem.Name = "mantenimientoProductoToolStripMenuItem";
-            this.mantenimientoProductoToolStripMenuItem.Size = new System.Drawing.Size(208, 22);
-            this.mantenimientoProductoToolStripMenuItem.Text = "Mantenimiento Producto";
-            // 
-            // productoToolStripMenuItem
-            // 
-            this.productoToolStripMenuItem.Name = "productoToolStripMenuItem";
-            this.productoToolStripMenuItem.Size = new System.Drawing.Size(180, 22);
-            this.productoToolStripMenuItem.Text = "Producto";
-            // 
             // Form1
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(800, 450);
             this.Controls.Add(this.menuStrip1);
+            this.IsMdiContainer = true;
             this.MainMenuStrip = this.menuStrip1;
             this.Name = "Form1";
             this.Text = "Form1";
+            this.Load += new System.EventHandler(this.Form1_Load);
             this.menuStrip1.ResumeLayout(false);
             this.menuStrip1.PerformLayout();
             this.ResumeLayout(false);
