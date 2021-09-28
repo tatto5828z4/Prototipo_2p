@@ -20,3 +20,5 @@ C:\Users\jorgi\Desktop\Analisis2p\Prototipo2P\CapaVista\obj\Debug\CapaVista.cspr
 C:\Users\jorgi\Desktop\Analisis2p\Prototipo2P\CapaVista\obj\Debug\CapaVista.csproj.CopyComplete
 C:\Users\jorgi\Desktop\Analisis2p\Prototipo2P\CapaVista\obj\Debug\CapaVista.dll
 C:\Users\jorgi\Desktop\Analisis2p\Prototipo2P\CapaVista\obj\Debug\CapaVista.pdb
+C:\Users\jorgi\Desktop\Analisis2p\Prototipo2P\CapaVista\obj\Debug\CapaVista.Linea.resources
+C:\Users\jorgi\Desktop\Analisis2p\Prototipo2P\CapaVista\obj\Debug\CapaVista.Marca.resources

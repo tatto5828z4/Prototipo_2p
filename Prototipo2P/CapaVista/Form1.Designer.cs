@@ -74,14 +74,16 @@
             // mantenimientoLineaToolStripMenuItem
             // 
             this.mantenimientoLineaToolStripMenuItem.Name = "mantenimientoLineaToolStripMenuItem";
-            this.mantenimientoLineaToolStripMenuItem.Size = new System.Drawing.Size(208, 22);
+            this.mantenimientoLineaToolStripMenuItem.Size = new System.Drawing.Size(192, 22);
             this.mantenimientoLineaToolStripMenuItem.Text = "Mantenimiento Linea";
+            this.mantenimientoLineaToolStripMenuItem.Click += new System.EventHandler(this.mantenimientoLineaToolStripMenuItem_Click);
             // 
             // mantenimientoProductoToolStripMenuItem
             // 
             this.mantenimientoProductoToolStripMenuItem.Name = "mantenimientoProductoToolStripMenuItem";
-            this.mantenimientoProductoToolStripMenuItem.Size = new System.Drawing.Size(208, 22);
-            this.mantenimientoProductoToolStripMenuItem.Text = "Mantenimiento Producto";
+            this.mantenimientoProductoToolStripMenuItem.Size = new System.Drawing.Size(192, 22);
+            this.mantenimientoProductoToolStripMenuItem.Text = "Mantenimiento Marca";
+            this.mantenimientoProductoToolStripMenuItem.Click += new System.EventHandler(this.mantenimientoProductoToolStripMenuItem_Click);
             // 
             // procesosToolStripMenuItem
             // 
@@ -124,6 +126,7 @@
             this.IsMdiContainer = true;
             this.MainMenuStrip = this.menuStrip1;
             this.Name = "Form1";
+            this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
             this.Text = "Form1";
             this.Load += new System.EventHandler(this.Form1_Load);
             this.menuStrip1.ResumeLayout(false);

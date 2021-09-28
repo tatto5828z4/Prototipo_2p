@@ -21,5 +21,21 @@ namespace CapaVista
         {
 
         }
+
+        private void mantenimientoLineaToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            Linea form = new Linea();
+            form.MdiParent = this;
+
+            form.Show();
+        }
+
+        private void mantenimientoProductoToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            Marca formm = new Marca();
+            formm.MdiParent = this;
+            
+            formm.Show();
+        }
     }
 }

@@ -53,11 +53,29 @@
     <Compile Include="Form1.Designer.cs">
       <DependentUpon>Form1.cs</DependentUpon>
     </Compile>
+    <Compile Include="Linea.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Linea.Designer.cs">
+      <DependentUpon>Linea.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Marca.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Marca.Designer.cs">
+      <DependentUpon>Marca.cs</DependentUpon>
+    </Compile>
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
     <EmbeddedResource Include="Form1.resx">
       <DependentUpon>Form1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Linea.resx">
+      <DependentUpon>Linea.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Marca.resx">
+      <DependentUpon>Marca.cs</DependentUpon>
     </EmbeddedResource>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
