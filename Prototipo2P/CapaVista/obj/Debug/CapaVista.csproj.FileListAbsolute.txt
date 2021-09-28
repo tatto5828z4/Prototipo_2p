@@ -1,0 +1,8 @@
+C:\Users\jorgi\Desktop\Prototipo2p\CapaVista\bin\Debug\CapaVista.dll
+C:\Users\jorgi\Desktop\Prototipo2p\CapaVista\bin\Debug\CapaVista.pdb
+C:\Users\jorgi\Desktop\Prototipo2p\CapaVista\obj\Debug\CapaVista.csprojAssemblyReference.cache
+C:\Users\jorgi\Desktop\Prototipo2p\CapaVista\obj\Debug\CapaVista.Form1.resources
+C:\Users\jorgi\Desktop\Prototipo2p\CapaVista\obj\Debug\CapaVista.csproj.GenerateResource.cache
+C:\Users\jorgi\Desktop\Prototipo2p\CapaVista\obj\Debug\CapaVista.csproj.CoreCompileInputs.cache
+C:\Users\jorgi\Desktop\Prototipo2p\CapaVista\obj\Debug\CapaVista.dll
+C:\Users\jorgi\Desktop\Prototipo2p\CapaVista\obj\Debug\CapaVista.pdb

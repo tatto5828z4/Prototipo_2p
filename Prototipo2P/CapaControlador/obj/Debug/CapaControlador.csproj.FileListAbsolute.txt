@@ -1,0 +1,6 @@
+C:\Users\jorgi\Desktop\Prototipo2p\CapaControlador\bin\Debug\CapaControlador.dll
+C:\Users\jorgi\Desktop\Prototipo2p\CapaControlador\bin\Debug\CapaControlador.pdb
+C:\Users\jorgi\Desktop\Prototipo2p\CapaControlador\obj\Debug\CapaControlador.csprojAssemblyReference.cache
+C:\Users\jorgi\Desktop\Prototipo2p\CapaControlador\obj\Debug\CapaControlador.csproj.CoreCompileInputs.cache
+C:\Users\jorgi\Desktop\Prototipo2p\CapaControlador\obj\Debug\CapaControlador.dll
+C:\Users\jorgi\Desktop\Prototipo2p\CapaControlador\obj\Debug\CapaControlador.pdb
